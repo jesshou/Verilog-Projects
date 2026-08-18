@@ -8,4 +8,4 @@ This repository holds my Verilog FPGA projects. Each one includes the main desig
 
 Combinational FPGA demo: 16 switches light matching LEDs only while the center button is held.
 
-**Demo:** [Video coming soon](#)
+**Demo:** https://youtu.be/B0ImlxX891c
