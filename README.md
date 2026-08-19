@@ -4,7 +4,11 @@ This repository holds my Verilog FPGA projects. Each one includes the main desig
 
 ## Projects
 
-### Switch Test
+### 1. PUnC: Princeton University Computer
+
+16-bit LC-3-style processor with a separate control unit and datapath, register file, ALU, memory, and NZP condition codes.
+
+### 2. Switch Test
 
 Combinational FPGA demo: 16 switches light matching LEDs only while the center button is held.
 
