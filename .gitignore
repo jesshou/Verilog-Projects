@@ -1,4 +1,5 @@
 # Vivado generated / local
+.DS_Store
 *.cache/
 *.runs/
 *.sim/
