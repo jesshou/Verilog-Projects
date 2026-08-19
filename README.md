@@ -12,8 +12,6 @@ This repository holds my Verilog FPGA projects. Each one includes the main desig
 
 Four-bit Verilog Simon Says-style memory game with playback, repeat checking, and game-state LEDs.
 
-[Read the Simon Says project README](2.%20Simon%20Says%20Multiplayer/README.md)
-
 ### 3. Switch Test
 
 Combinational FPGA demo: 16 switches light matching LEDs only while the center button is held.
