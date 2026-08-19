@@ -17,3 +17,10 @@ Four-bit Verilog Simon Says-style memory game with playback, repeat checking, an
 Combinational FPGA demo: 16 switches light matching LEDs only while the center button is held.
 
 **Demo:** https://youtu.be/B0ImlxX891c
+
+### 4. 7-Segment Driver
+
+Reads 16 switches and shows their value in hex on the Basys 3 four-digit display.
+
+**Demo:** https://youtu.be/-mFk06RK1dY
+
